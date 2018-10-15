@@ -1,2 +1,4 @@
-# misc
-Miscellaneous
+## misc
+
+# Miscellaneous
+A repository holding miscellaneous things.
